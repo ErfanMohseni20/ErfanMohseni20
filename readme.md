@@ -1,13 +1,10 @@
 <!-- Header with waving hand and name on the left -->
+<img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg">
+
 <h1>
   <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Hi, I'm Erfan Mohseni! 😊
 </h1>
 <p>Just a simple developer with a small smile and a big love for coding</p>
-
-<!-- Welcome GIF -->
-<p>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHl6N3B3N3NkN2o2aGJ6MjB4ZG5kZjRwZm91Z3Z6dG96Z215Y2x4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRv0Thfl7kt8uEg/giphy.gif" alt="Welcome Animation" width="200"/>
-</p>
 
 ---
 
@@ -56,15 +53,6 @@
 
 ---
 
-## 🚀 Featured Projects
-- [Laravel Blog API](https://github.com/ErfanMohseni20/laravel-blog-api) - RESTful API with JWT auth
-- [Task Manager (Flutter)](https://github.com/ErfanMohseni20/flutter-task-manager) - Bloc + Firebase
-- [E-Commerce API](https://github.com/ErfanMohseni20/ecommerce-api) - Laravel + MySQL
-- [Weather App](https://github.com/ErfanMohseni20/weather-app-flutter) - Dart + OpenWeather API
-- [Portfolio Website](https://github.com/ErfanMohseni20/portfolio-site) - HTML/CSS/JS
-
----
-
 ## 📊 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ErfanMohseni20&show_icons=true&theme=radical&border_color=55efc4" alt="Erfan's stats"/>
@@ -90,3 +78,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
