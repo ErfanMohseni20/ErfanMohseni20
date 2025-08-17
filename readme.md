@@ -1,19 +1,19 @@
 <p align="center">
-  <img width="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWd6N3F2Y3RiYzZ6eWJ0N3Z4N2Z1cGZ5dGZ4dG50cG96dG90b2R5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8UQ4l4LhG2U/giphy.gif" alt="Welcome GIF">
+  <img width="180" src="https://media.giphy.com/media/3o7TKsQ8UQ4l4LhG2U/giphy.gif" alt="Welcome GIF">
 </p>
 
-<h1 align="center">سلام! من عرفان محسنی هستم 😊</h1>
-<p align="center">صرفاً یک برنامه‌نویس ساده با یه لبخند کوچیک و عشق به کدنویسی</p>
+<h1 align="center">Hi, I'm Erfan Mohseni! 😊</h1>
+<p align="center">Just a simple developer with a small smile and a big love for coding</p>
 
 ---
 
-## 🌍 زبان‌ها
-- 🇮🇷 فارسی (زبان مادری)
-- 🇬🇧 انگلیسی (سطح متوسط - خواندن و نوشتن فنی روان، مکالمه در حال بهبود)
+## 🌍 Languages
+- 🇮🇷 Persian (Native)
+- 🇬🇧 English (Intermediate - fluent in technical reading/writing, improving conversation)
 
 ---
 
-## 🛠 مهارت‌های فنی
+## 🛠️ Technical Skills
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
@@ -27,47 +27,39 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/>
 </div>
 
-### 🔧 Backend (PHP & Laravel)
-- ✅ توسعه حرفه‌ای با PHP و فریم‌ورک Laravel
-- ✅ طراحی API‌های RESTful، احراز هویت (JWT)، صف‌ها، Events و Jobs
-- ✅ استفاده از Eloquent ORM و بهینه‌سازی کوئری‌ها
-- ✅ مستندسازی API با Swagger
+---
+
+### 🔧 Backend Development (PHP & Laravel)
+- ✅ Professional experience in **PHP** and **Laravel**
+- ✅ Building RESTful APIs, authentication (JWT, Sanctum), queues, events, and jobs
+- ✅ Eloquent ORM, database optimization, and query tuning
+- ✅ API documentation using **Swagger / OpenAPI**
 
 ### 💻 C#
-- ✅ سابقه کار عملی با C# و .NET (در پروژه‌های شخصی و دانشگاهی)
-- ✅ آشنایی با مفاهیم OOP و کار با پروژه‌های کنسول و ویندوز فرم
+- ✅ Hands-on experience with **C#** and .NET in personal and academic projects
+- ✅ Solid understanding of OOP, LINQ, and desktop applications
 
-### 📱 Dart & Flutter (در حال یادگیری)
-- 🌱 در حال یادگیری Dart و Flutter برای توسعه موبایل
-- ✅ کار با UI پیشرفته، State Management (مثل Provider و Bloc)، و ارتباط با API
-- 🎯 هدف: ساخت اپلیکیشن‌های ریسپانسیو و کاربرپسند
+### 📱 Dart & Flutter (Learning)
+- 🌱 Currently learning **Dart** and **Flutter** for mobile development
+- ✅ Working with advanced UI, State Management (Provider, Bloc), and API integration
+- 🎯 Goal: Building responsive and user-friendly mobile apps
 
-### 🗄 پایگاه داده و ابزارها
-- ✅ طراحی و مدیریت دیتابیس با MySQL
-- ✅ استفاده از ORM (Eloquent در Laravel)
-- ✅ کار با Git و مدیریت نسخه در GitHub
-- ✅ کار در محیط Linux و خط فرمان (Bash, SSH, Services)
-
----
-
-## 💬 About Me
-I'm a passionate backend developer with a strong focus on PHP and Laravel.  
-I have hands-on experience building scalable APIs and working with databases.  
-Also, I've worked with C# in academic and personal projects.  
-Currently learning Dart and Flutter to expand into mobile development.  
-I'm fluent in technical English and improving my conversational skills.  
-Simple, curious, and always coding with a smile 😊
+### 🗄️ Databases & Tools
+- ✅ Database design and management with **MySQL**
+- ✅ ORM usage (Eloquent in Laravel)
+- ✅ Version control with **Git** and **GitHub**
+- ✅ Comfortable working on **Linux** environments (Bash, SSH, services)
 
 ---
 
-## 📫 ارتباط با من
+## 📫 Get in Touch
 - 🐦 [Twitter/X](https://twitter.com/@ERFANMOHSENI13)
-- 📧 ایمیل: erfanmohseni406@email.com
+- 📧 **Email**: erfanmohseni406@email.com
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=نام-کاربری-گیت‌هاب&label=بازدیدکننده&color=blue&style=flat" alt="تعداد بازدیدکننده"/>
+  <img src="https://komarev.com/ghpvc/?username=ErfanMohseni20&label=Profile%20views&color=blue&style=flat" alt="Profile views"/>
 </p>
 
 <p align="center">
