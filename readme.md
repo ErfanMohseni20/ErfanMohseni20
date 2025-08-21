@@ -2,14 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=55efc4&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Erfan+Mohseni!;A+Passionate+Backend+Developer;Love+Coding+%26+Learning+New+Things" alt="Typing SVG" />
 </p>
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Hi, I'm Erfan Mohseni! 😊
-</h1>
-
-<p align="center">
-  Just a simple developer with a small smile and a big love for coding 💻
-</p>
-
 ---
 
 ## 🌍 Languages
@@ -20,10 +12,9 @@
 
 ## 🛠️ Technical Skills  
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,csharp,dart,flutter,mysql,git,linux" height="50"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="40"/>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,dotnet,csharp,dart,flutter,mysql,redis,git,linux,nginx,docker,postman,swagger&perline=7" alt="skills" />
+</p>
 
 ---
 
@@ -71,14 +62,16 @@
 ---
 
 ## 📫 Get in Touch  
-- 📧 **Email**: erfanmohseni406@email.com  
-- 🐦 [X/Twitter](https://twitter.com/ERFANMOHSENI13)  
-- 💬 [Telegram](https://t.me/ErfanMohseni20)  
-- 📸 [Instagram](https://www.instagram.com/erfan_mohseni_406/)  
-
+<p align="center">
+  <a href="mailto:erfanmohseni406@email.com"><img src="https://img.shields.io/badge/Email-erfanmohseni406%40email.com-0d1117?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/ERFANMOHSENI13"><img src="https://img.shields.io/badge/Twitter-@ERFANMOHSENI13-0d1117?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://t.me/ErfanMohseni20"><img src="https://img.shields.io/badge/Telegram-@ErfanMohseni20-0d1117?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://www.instagram.com/erfan_mohseni_406/"><img src="https://img.shields.io/badge/Instagram-erfan_mohseni_406-0d1117?style=for-the-badge&logo=instagram" /></a>
+</p>
 ---
 
 <!-- Animated footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
