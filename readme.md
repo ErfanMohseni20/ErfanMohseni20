@@ -1,49 +1,46 @@
-# 👋 Hi there, I'm Erfan
-
-🚀 Full-stack Developer | 🎨 UI/UX Enthusiast | 🛠️ Open-source Contributor  
-
----
-
-## 🧰 Tech Stack
-
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<!-- انیمیشن خوش‌آمدگویی -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Vazirmatn&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=سلام👋+من+عرفان+محسنی+هستم;برنامه+نویس+بک+اند" alt="سلام من عرفان محسنی هستم" />
+</h1>
 
 ---
 
-## 📊 GitHub Overview  
+## 🌍 زبان‌هایی که بلدم
+- فارسی (Native)  
+- انگلیسی (متوسط)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erfanmohseni&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="160px"/>
-  <img src="https://streak-stats.demolab.com?user=erfanmohseni&theme=tokyonight&date_format=M%20j%5B,%20Y%5D&mode=weekly" height="160px"/>
-</p>
+---
 
+## 🛠️ تکنولوژی‌هایی که کار کردم
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanmohseni&layout=compact&theme=tokyonight&langs_count=10" height="160px"/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,csharp,dart,flutter,mysql,git,linux" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 </p>
 
 ---
 
-## ✨ Activity Animation (Snake Alternative)
+## 📈 آمار فعالیت و کامیت‌ها  
+![GitHub Snake Light](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only)  
+![GitHub Snake Dark](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=erfanmohseni&theme=tokyonight&no-frame=true&margin-w=5&margin-h=5" alt="trophies"/>
-</p>
+---
 
+## 🎉 فان تایم  
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=150&section=footer&animation=fadeIn&text=Keep%20Coding!&fontColor=ffffff&fontSize=30" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="fun animation" />
 </p>
 
 ---
 
-## 📫 Connect with me
+## 📬 ارتباط با من
+- 💬 تلگرام: [ErfanMohseni20](https://t.me/ErfanMohseni20)  
+- 📧 ایمیل: erfanmohseni406@email.com  
+- 📸 اینستاگرام: [erfan_mohseni_406](https://www.instagram.com/erfan_mohseni_406)  
+- 🐦 توییتر: [ERFANMOHSENI13](https://twitter.com/ERFANMOHSENI13)  
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erfanmohseni)
+---
+
+## 🌊 پایان با موج  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C4FF&height=100&section=footer"/>
+</p>
