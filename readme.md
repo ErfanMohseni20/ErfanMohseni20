@@ -1,90 +1,98 @@
-<!-- Header typing animation -->
+<!-- Header: animated wave with gradient + subtle animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=55efc4&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Erfan+Mohseni!;A+Passionate+Backend+Developer;Love+Coding+%26+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Erfan%20Mohseni&desc=Backend%20%7C%20Laravel%20%7C%20C%23%20%7C%20Flutter&fontAlign=50&fontAlignY=35&color=gradient&animation=twinkling&fontSize=42&descAlign=50&descAlignY=57" alt="header"/>
+</p>
+
+<!-- Typing intro -->
+<p align="center">
+  <a href="https://github.com/ErfanMohseni20">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=900&center=true&vCenter=true&width=700&lines=سلام!+من+عرفان+محسنی+هستم+%F0%9F%91%8B;عاشق+کدنویسی+و+ساختن+چیزهای+کاربردی;PHP+%2F+Laravel+%2C+C%23+%2C+Dart+%2F+Flutter+%2C+MySQL;OpenAPI%2FSwagger+%2C+Git%2FLinux+%2C+API+Design" alt="typing" />
+  </a>
+</p>
+
+<!-- About -->
+<p align="center">
+  <b>Just a simple developer with a small smile and a big love for coding :)</b>
 </p>
 
 ---
 
 ## 🌍 Languages
 - 🇮🇷 Persian (Native)
-- 🇬🇧 English (Intermediate - fluent in technical reading/writing)
+- 🇬🇧 English (Intermediate – strong technical reading/writing)
 
 ---
 
-## 🛠️ Technical Skills
-
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,dotnet,csharp,dart,flutter,mysql,redis,git,linux,nginx,docker,postman,swagger&perline=7" alt="skills" />
 </p>
 
 ---
 
-### 🔧 Backend Development (PHP & Laravel)
-- ✅ Professional experience in **PHP** and **Laravel**
-- ✅ Building RESTful APIs, authentication (JWT, Sanctum), queues, events, and jobs
-- ✅ Eloquent ORM, database optimization, and query tuning
-- ✅ API documentation using **Swagger / OpenAPI**
-
-### 💻 C#
-- ✅ Hands-on experience with **C#** and .NET in personal and academic projects
-- ✅ Solid understanding of OOP, LINQ, and desktop applications
-
-### 📱 Dart & Flutter (Learning)
-- 🌱 Currently learning **Dart** and **Flutter** for mobile development
-- ✅ Working with advanced UI, State Management (Provider, Bloc), and API integration
-- 🎯 Goal: Building responsive and user-friendly mobile apps
-
-### 🗄️ Databases & Tools
-- ✅ Database design and management with **MySQL**
-- ✅ ORM usage (Eloquent in Laravel)
-- ✅ Version control with **Git** and **GitHub**
-- ✅ Comfortable working on **Linux** environments (Bash, SSH, services)
+## 🔧 Backend Focus
+- RESTful APIs, Auth (JWT, Sanctum), Queues/Events/Jobs
+- Eloquent ORM، بهینه‌سازی Query و DB Tuning
+- مستندسازی با Swagger / OpenAPI
 
 ---
 
-## 📊 GitHub Stats
-
+## 📈 GitHub Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErfanMohseni20&show_icons=true&theme=tokyonight&hide_border=true" alt="Erfan's stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErfanMohseni20&theme=tokyonight&hide_border=true" alt="streak stats" height="160"/>
+  <!-- All-time stats (includes private + all commits) -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ErfanMohseni20&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true" alt="stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=ErfanMohseni20&theme=radical&hide_border=true" alt="streak" />
 </p>
 
-<!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErfanMohseni20&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanMohseni20&layout=compact&theme=radical&hide_border=true" alt="top langs" />
 </p>
 
-<!-- Trophies -->
+<!-- Activity graph: from 2020-01-01 to today -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ErfanMohseni20&theme=tokyonight&margin-w=15&margin-h=15&row=1&column=6" alt="Trophies"/>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErfanMohseni20&custom_title=My%20GitHub%20Activity%20(2020%20%E2%86%92%20Now)&from=2020-01-01&to=9999-12-31&theme=react-dark&height=300&area=true&hide_border=true" alt="activity graph"/>
+  </a>
+</p>
+
+<!-- Snake: generated by GitHub Action below -->
+<p align="center">
+  <!-- Light -->
+  <img src="https://raw.githubusercontent.com/ErfanMohseni20/ErfanMohseni20/output/github-contribution-grid-snake.svg" alt="snake" />
+  <!-- Dark -->
+  <img src="https://raw.githubusercontent.com/ErfanMohseni20/ErfanMohseni20/output/github-contribution-grid-snake-dark.svg" alt="snake dark" />
 </p>
 
 ---
 
-## 🎧 Now Playing
+## 🏆 Trophies
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31h2hssmtbd73qltih4acxgwb5fu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=55efc4&bar_color_cover=true" alt="Spotify Now Playing"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ErfanMohseni20&theme=discord&no-frame=true&row=1&column=7" alt="trophies" />
+</p>
+
+---
+
+## 🎧 Now Playing (Spotify)
+<!-- برای راه افتادن: یک‌بار لاگین نیاز دارد؛ توضیحات پایین -->
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/login">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tqz3x3qoq3xv3y8j1rn5b1gyae&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="spotify now playing" />
+  </a>
 </p>
 
 ---
 
 ## 📫 Get in Touch
-- 📧 **Email**: erfanmohseni406@email.com  
-- 🐦 [Twitter / X](https://twitter.com/@ERFANMOHSENI13)  
-- 💬 [Telegram](https://t.me/ErfanMohseni20)  
-- 📸 [Instagram](https://www.instagram.com/erfan_mohseni_406/)  
+<p align="center">
+  <a href="mailto:erfanmohseni406@email.com"><img src="https://img.shields.io/badge/Email-erfanmohseni406%40email.com-0d1117?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/ERFANMOHSENI13"><img src="https://img.shields.io/badge/Twitter-@ERFANMOHSENI13-0d1117?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://t.me/ErfanMohseni20"><img src="https://img.shields.io/badge/Telegram-@ErfanMohseni20-0d1117?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://www.instagram.com/erfan_mohseni_406/"><img src="https://img.shields.io/badge/Instagram-erfan_mohseni_406-0d1117?style=for-the-badge&logo=instagram" /></a>
+</p>
 
 ---
 
-<!-- Animated footer -->
+<!-- Footer wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=55efc4&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient"/>
 </p>
