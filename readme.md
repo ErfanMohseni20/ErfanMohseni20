@@ -27,14 +27,14 @@
 ---
 
 ### 🔧 Backend Development (PHP & Laravel)
-- ✅ Professional experience in **PHP** and **Laravel**
+- ✅ experience in **PHP** and **Laravel**
 - ✅ Building RESTful APIs, authentication (JWT), queues, events, and jobs
-- ✅ Eloquent ORM, database optimization, and query tuning
+- ✅ Eloquent ORM, database, and query tuning
 - ✅ API documentation using **Swagger / OpenAPI**
 
 ### 💻 C#
-- ✅ Hands-on experience with **C#** and .NET in personal and academic projects
-- ✅ Solid understanding of OOP, and desktop applications
+- ✅ experience with **C#** and .NET in personal and academic projects
+- ✅ Solid understanding of OOP
 
 ### 📱 Dart & Flutter
 - 🌱 Currently learning **Dart** and **Flutter** for mobile development
@@ -81,5 +81,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
 
 
