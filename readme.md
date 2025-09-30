@@ -2,20 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=55efc4&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Erfan+Mohseni!;A+Passionate+Backend+Developer;Love+Coding+%26+Learning+New+Things" alt="Typing SVG" />
 </p>
 
----
-
-## 🌍 Languages
-- 🇮🇷 Persian (Native)  
-- 🇬🇧 English (Intermediate – fluent in technical reading/writing)
-
----
-
 ## 🛠️ Technical Skills  
 
  🚀 Programming Language
 <p alien="left"> 
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 </p>
  💥 Framework
@@ -39,10 +30,6 @@
 - ✅ Eloquent ORM, database, and query tuning
 - ✅ API documentation using **Swagger / OpenAPI**
 
-### 💻 C#
-- ✅ experience with **C#** and .NET in personal and academic projects
-- ✅ Solid understanding of OOP
-
 ### 📱 Dart & Flutter
 - 🌱 Currently learning **Dart** and **Flutter** for mobile development
 - ✅ Working with advanced UI, State Management (Provider, Bloc), and API integration
@@ -54,23 +41,6 @@
 - ✅ Version control with **Git** and **GitHub**
 - ✅ Comfortable working on **Linux** environments (Bash, SSH, services)
 
----
-
-## 📊 My GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErfanMohseni20&show_icons=true&theme=radical&border_color=55efc4" height="160" alt="Erfan's stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanMohseni20&layout=compact&theme=radical&border_color=55efc4" height="160" alt="Top langs"/>
-</p>
-
-<!-- Snake contribution graph -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Snake Light"/>
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark"/>
-</p>
-
-
----
 
 ## 📫 Get in Touch  
 <p align="center">
@@ -88,6 +58,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
 
 
 
